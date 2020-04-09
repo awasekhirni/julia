@@ -1,0 +1,2 @@
+abstract type AbstractAnimal
+end

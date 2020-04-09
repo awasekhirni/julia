@@ -1,0 +1,13 @@
+Copyright 2018-19 Syed Awase Khirni 
+www.sycliq.com www.territorialprescience.com 
+awasekhirni@gmail.com sak@sycliq.com 919035433124
+
+#=
+ This is a Multiline comment statement in Julia Language
+ This has been written by Syed Awase Khirni 
+#= 
+
+# Single lineComment 
+# =>About Variables 
+# variables can have unicode characters 
+
