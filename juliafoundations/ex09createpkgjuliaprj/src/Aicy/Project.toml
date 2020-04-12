@@ -1,0 +1,8 @@
+name = "Aicy"
+uuid = "b2812028-27d0-4cc8-b1c0-779172b32f9a"
+authors = ["awasekhirni@gmail.com <awasekhirni@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BusinessDays = "4f18b42c-503e-5345-9536-bb0f25fc7038"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"

@@ -1,0 +1,7 @@
+name = "MyDemoPkg"
+uuid = "250f06ee-d139-424c-95c4-28fb34439f63"
+authors = ["awasekhirni@gmail.com <awasekhirni@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BusinessDays = "4f18b42c-503e-5345-9536-bb0f25fc7038"

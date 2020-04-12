@@ -1,0 +1,23 @@
+#=
+ Copyright 2018-19 Syed Awase Khirni
+ www.sycliq.com www.territorialprescience.com
+ awasekhirni@gmail.com 9035433124 bangalore, India
+=#
+
+Creating packages in Julia
+https://docs.julialang.org/en/v1/stdlib/Pkg/
+1.open JULIA REPL
+2. type "]" it should prompt you => pkg
+3. "generate pkg_name"
+ => it would generate the following
+   pkg_name\Project.toml
+   pkg_name/src/aicy.jl
+
+4. add SpecialFunctions
+   add BusinessDays
+5. build Aicy
+6. update
+7. activate Aicy
+8. status
+9. Now lets add the package to appmain
+ and call the functions from the package.
